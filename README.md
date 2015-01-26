@@ -10,7 +10,11 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [StackEdit][1].
 
 
+
 ### **Javascript**
+
+#### **JSON**
+* [JSON Generator][3].
 
 #### **Tools**
 * [Flow][2].
@@ -24,3 +28,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
+[3]: http://www.json-generator.com/ "JSON Generator"  target="_blank"
