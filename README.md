@@ -30,7 +30,8 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 * [Edx][7]
 * [Miriada][8]
-
+* [Udemy][9]
+* [Coursera][10]
 
 
 
@@ -42,3 +43,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [6]: https://trello.com "Trello" target="_blank"
 [7]: https://www.edx.org "Edx" target="_blank"
 [8]: https://www.miriadax.net/home "Miriada" target="_blank"
+[9]: https://www.udemy.com/courses/ "Udemy" target="_blank"
+[10]: https://www.coursera.org/ "Coursera" target="_blank"
