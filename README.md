@@ -9,8 +9,6 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 #### **Markdown**
 * [StackEdit][1]
 
-
-
 ### **Javascript**
 
 #### **Libraries**
@@ -22,12 +20,19 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 #### **Tools**
 * [Flow][2]
 
-
 ### **Desarrollo Agil**
 
 #### **Scrum**
 * [Flying Donut][4]
 * [Trello][6]
+
+### **Online Courses**
+
+* [Edx][7]
+
+
+
+
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
@@ -35,3 +40,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [4]: https://www.flying-donut.com "Flying Donut - Scrum" target="_blank"
 [5]: https://github.com/Cedriking/is.js "Is Js" target="_blank"
 [6]: https://trello.com "Trello" target="_blank"
+[7]: https://www.edx.org  "Edx" target="_blank"
