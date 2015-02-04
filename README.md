@@ -13,6 +13,9 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 ### **Javascript**
 
+#### **Libraries**
+* [Is.js][5].
+
 #### **JSON**
 * [JSON Generator][3].
 
@@ -20,12 +23,14 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Flow][2].
 
 
+### **Desarrollo Agil**
 
-#### **Markdown**
-* [StackEdit][1].
-
+#### **Scrum**
+* [Flying Donut][4].
 
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
-[3]: http://www.json-generator.com/ "JSON Generator"  target="_blank"
+[3]: http://www.json-generator.com/ "JSON Generator" target="_blank"
+[4]: https://www.flying-donut.com "Flying Donut - Scrum" target="_blank"
+[5]: https://github.com/Cedriking/is.js "Is Js" target="_blank"
