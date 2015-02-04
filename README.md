@@ -7,26 +7,26 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ### **Editores en línea(online)**
 
 #### **Markdown**
-* [StackEdit][1].
+* [StackEdit][1]
 
 
 
 ### **Javascript**
 
 #### **Libraries**
-* [Is.js][5].
+* [Is.js][5]
 
 #### **JSON**
-* [JSON Generator][3].
+* [JSON Generator][3]
 
 #### **Tools**
-* [Flow][2].
+* [Flow][2]
 
 
 ### **Desarrollo Agil**
 
 #### **Scrum**
-* [Flying Donut][4].
+* [Flying Donut][4]
 
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
