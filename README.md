@@ -35,7 +35,8 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Coursera][10]
 * [Udacity][11]
 
-
+### **Expresiones Reulares**
+* [RegexLib][13]
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
@@ -49,3 +50,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [10]: https://www.coursera.org/ "Coursera" target="_blank"
 [11]: https://www.udacity.com/ "Udacity" target="_blank"
 [12]: http://aurelia.io "Aurelia" target="_blank"
+[13]: http://regexlib.com "RegexLib" target="_blank"
