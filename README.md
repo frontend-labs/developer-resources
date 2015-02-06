@@ -13,6 +13,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 #### **Libraries**
 * [Is.js][5]
+* [Aurelia.io][12]
 
 #### **JSON**
 * [JSON Generator][3]
@@ -47,3 +48,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [9]: https://www.udemy.com/courses/ "Udemy" target="_blank"
 [10]: https://www.coursera.org/ "Coursera" target="_blank"
 [11]: https://www.udacity.com/ "Udacity" target="_blank"
+[12]: http://aurelia.io "Aurelia" target="_blank"
