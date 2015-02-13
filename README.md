@@ -21,6 +21,12 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 #### **Tools**
 * [Flow][2]
 
+### **Design**
+
+#### **Extract colors**
+* [Web Colour Data][14]
+
+
 ### **Desarrollo Agil**
 
 #### **Scrum**
@@ -51,3 +57,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [11]: https://www.udacity.com/ "Udacity" target="_blank"
 [12]: http://aurelia.io "Aurelia" target="_blank"
 [13]: http://regexlib.com "RegexLib" target="_blank"
+[14]: http://webcolourdata.com "Web Colour Data" target="_blank"
+
