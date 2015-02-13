@@ -41,8 +41,12 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Coursera][10]
 * [Udacity][11]
 
-### **Expresiones Reulares**
+### **Expresiones Regulares**
 * [RegexLib][13]
+
+### **Layouts**
+* [Gridulator][15]
+* [Gridpak][16]
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
@@ -58,4 +62,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [12]: http://aurelia.io "Aurelia" target="_blank"
 [13]: http://regexlib.com "RegexLib" target="_blank"
 [14]: http://webcolourdata.com "Web Colour Data" target="_blank"
-
+[15]: http://gridulator.com "Gridulator" target="_blank"
+[16]: http://http://gridpak.com "Gridpak" target="_blank"
