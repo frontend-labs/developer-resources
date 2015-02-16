@@ -9,6 +9,10 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 #### **Markdown**
 * [StackEdit][1]
 
+### **Editores de texto**
+#### **Vim**
+* [Vim Awesome][19]
+
 ### **Javascript**
 
 #### **Libraries**
@@ -75,3 +79,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [16]: http://www.gridpak.com "Gridpak" target="_blank"
 [17]: http://devdocs.io/ "devdocs.io" target="_blank"
 [18]: http://www.brokenlinkcheck.com/broken-links.php "Broken link Check" target="_blank"
+[19]: http://vimawesome.com/ "vimawesome.com" target="_blank"
