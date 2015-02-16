@@ -1,4 +1,4 @@
-**developer-resources**
+**Developer Resources**
 ==============
 Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado por categorías.
 
@@ -39,7 +39,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Coursera][10]
 * [Udacity][11]
 
-## *CSS*
+## **CSS**
 ### **Grillas**
 * [Gridulator][15]
 * [Gridpak][16]
@@ -55,7 +55,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Servicios**
 * [Broken Link Check][18]
 
-## **Tools**
+## **Herramientas**
 * [Flow][2]
 
 
