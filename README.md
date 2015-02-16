@@ -13,7 +13,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Vim Awesome][19]
 
 ## **Javascript**
-### **Libraries**
+### **Librerias**
 * [Is.js][5]
 * [Aurelia.io][12]
 
@@ -23,7 +23,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ### **JSON**
 * [JSON Generator][3]
 
-## **Design**
+## **Diseño**
 ### **Extract colors**
 * [Web Colour Data][14]
 
@@ -32,7 +32,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Flying Donut][4]
 * [Trello][6]
 
-## **Online Courses**
+## **Cursos en linea**
 * [Edx][7]
 * [Miriada][8]
 * [Udemy][9]
@@ -40,7 +40,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Udacity][11]
 
 ## *CSS*
-### **Layouts**
+### **Grillas**
 * [Gridulator][15]
 * [Gridpak][16]
 
