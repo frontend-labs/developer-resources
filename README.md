@@ -4,43 +4,40 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 ----------
 
-### **Editores en línea(online)**
-#### **Markdown**
+## **Editores en línea(online)**
+### **Markdown**
 * [StackEdit][1]
 
-### **Editores de texto**
-#### **Vim**
+##**Editores de texto**
+### **Vim**
 * [Vim Awesome][19]
 
-### **Javascript**
-#### **Libraries**
+## **Javascript**
+### **Libraries**
 * [Is.js][5]
 * [Aurelia.io][12]
 
-#### **JSON**
+### **Expresiones Regulares**
+* [RegexLib][13]
+
+### **JSON**
 * [JSON Generator][3]
 
-#### **Tools**
-* [Flow][2]
-
-### **Design**
-#### **Extract colors**
+## **Design**
+### **Extract colors**
 * [Web Colour Data][14]
 
-### **Desarrollo Agil**
-#### **Scrum**
+## **Desarrollo Agil**
+### **Scrum**
 * [Flying Donut][4]
 * [Trello][6]
 
-### **Online Courses**
+## **Online Courses**
 * [Edx][7]
 * [Miriada][8]
 * [Udemy][9]
 * [Coursera][10]
 * [Udacity][11]
-
-### **Expresiones Regulares**
-* [RegexLib][13]
 
 ## *CSS*
 ### **Layouts**
@@ -58,7 +55,8 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Servicios**
 * [Broken Link Check][18]
 
-
+## **Tools**
+* [Flow][2]
 
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
