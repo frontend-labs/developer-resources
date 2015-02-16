@@ -5,7 +5,6 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ----------
 
 ### **Editores en línea(online)**
-
 #### **Markdown**
 * [StackEdit][1]
 
@@ -14,7 +13,6 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Vim Awesome][19]
 
 ### **Javascript**
-
 #### **Libraries**
 * [Is.js][5]
 * [Aurelia.io][12]
@@ -26,19 +24,15 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Flow][2]
 
 ### **Design**
-
 #### **Extract colors**
 * [Web Colour Data][14]
 
-
 ### **Desarrollo Agil**
-
 #### **Scrum**
 * [Flying Donut][4]
 * [Trello][6]
 
 ### **Online Courses**
-
 * [Edx][7]
 * [Miriada][8]
 * [Udemy][9]
@@ -48,19 +42,20 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ### **Expresiones Regulares**
 * [RegexLib][13]
 
+## *CSS*
 ### **Layouts**
 * [Gridulator][15]
 * [Gridpak][16]
 
-### **Multiples documentación**
+## **Documentación**
+### Documentación múltiple
 * [devdocs.io][17]
 
-## Style Guide
-### **JavaScript**
+### Guía de estilos
+#### **JavaScript**
 * [Airbnb JavaScript Style Guide][20]
 
-
-### **Servicios**
+## **Servicios**
 * [Broken Link Check][18]
 
 
