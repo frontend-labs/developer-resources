@@ -55,6 +55,11 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ### **Multiples documentación**
 * [devdocs.io][17]
 
+## Style Guide
+### **JavaScript**
+* [Airbnb JavaScript Style Guide][20]
+
+
 ### **Servicios**
 * [Broken Link Check][18]
 
@@ -80,3 +85,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [17]: http://devdocs.io/ "devdocs.io" target="_blank"
 [18]: http://www.brokenlinkcheck.com/broken-links.php "Broken link Check" target="_blank"
 [19]: http://vimawesome.com/ "vimawesome.com" target="_blank"
+[20]: https://github.com/airbnb/javascript "JavaScript Style Guide by airbnb" target="_blank"
