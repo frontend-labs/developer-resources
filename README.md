@@ -26,6 +26,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Diseño**
 ### **Extract colors**
 * [Web Colour Data][14]
+* [Grid System for Responsive Design][21]
 
 ## **Desarrollo Agil**
 ### **Scrum**
@@ -79,3 +80,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [18]: http://www.brokenlinkcheck.com/broken-links.php "Broken link Check" target="_blank"
 [19]: http://vimawesome.com/ "vimawesome.com" target="_blank"
 [20]: https://github.com/airbnb/javascript "JavaScript Style Guide by airbnb" target="_blank"
+[21]: http://foundationpress.olefredrik.com/downloads/foundation-psd-template/ "Grid System for Responsive Design" target="_blank"
