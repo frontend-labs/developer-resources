@@ -26,7 +26,6 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Diseño**
 ### **Extract colors**
 * [Web Colour Data][14]
-* [Grid System for Responsive Design][21]
 
 ## **Desarrollo Agil**
 ### **Scrum**
@@ -42,6 +41,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 ## **CSS**
 ### **Grillas**
+* [Grid System for Responsive Design][21]
 * [Gridulator][15]
 * [Gridpak][16]
 
