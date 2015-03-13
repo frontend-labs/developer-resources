@@ -3,7 +3,6 @@
 Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado por categorías.
 
 ----------
-
 ## **Editores en línea(online)**
 ### **Markdown**
 * [StackEdit][1]
@@ -60,6 +59,15 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Herramientas**
 * [Flow][2]
 
+## **Estandares de Git**
+### **Rebsase**
+* [Rebase][25]
+
+### **Commits**
+* [Commits][24]
+
+### **Flujo de Trabajo**
+* [Flujo][23]
 
 [1]: https://stackedit.io/editor "StackEdit" target="_blank"
 [2]: http://flowtype.org/ "Flow" target="_blank"
@@ -83,3 +91,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [20]: https://github.com/airbnb/javascript "JavaScript Style Guide by airbnb" target="_blank"
 [21]: http://foundationpress.olefredrik.com/downloads/foundation-psd-template/ "Grid System for Responsive Design" target="_blank"
 [22]: https://iversity.org/ "Iversity" target="_blank"
+[23]: https://github.com/frontend-labs/flujo-para-branches "Flujo" target="_blank"
+[24]: https://github.com/frontend-labs/commits "Commits" target="_blank"
+[25]: https://help.github.com/articles/about-git-rebase/ "Rebase" target="_blank"
+
