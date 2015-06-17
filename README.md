@@ -11,6 +11,9 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ### **Vim**
 * [Vim Awesome][19]
 
+### **Floobits (Collaborative Online Editor)**
+* [Floobits][26]
+
 ## **Javascript**
 ### **Librerias**
 * [Is.js][5]
@@ -94,4 +97,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [23]: https://github.com/frontend-labs/flujo-para-branches "Flujo" target="_blank"
 [24]: https://github.com/frontend-labs/commits "Commits" target="_blank"
 [25]: https://help.github.com/articles/about-git-rebase/ "Rebase" target="_blank"
+[26]: https://floobits.com/ "Floobits" target="_blank"
 
