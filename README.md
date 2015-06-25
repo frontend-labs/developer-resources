@@ -51,6 +51,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 ## **Documentación**
 ### Documentación múltiple
 * [devdocs.io][17]
+* [kapeli.com/dash][27]
 
 ### Guía de estilos
 #### **JavaScript**
@@ -98,4 +99,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [24]: https://github.com/frontend-labs/commits "Commits" target="_blank"
 [25]: https://help.github.com/articles/about-git-rebase/ "Rebase" target="_blank"
 [26]: https://floobits.com/ "Floobits" target="_blank"
+[27]: https://kapeli.com/dash target="_blank"
 
