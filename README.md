@@ -15,6 +15,12 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [Floobits][26]
 
 ## **Javascript**
+
+### **ES6**
+* [es6-basics][28]
+* [es6-cheatsheet][29]
+* [es6-tools][30]
+
 ### **Librerias**
 * [Is.js][5]
 * [Aurelia.io][12]
@@ -100,4 +106,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [25]: https://help.github.com/articles/about-git-rebase/ "Rebase" target="_blank"
 [26]: https://floobits.com/ "Floobits" target="_blank"
 [27]: https://kapeli.com/dash/ "kapeli" target="_blank"
+[28]: http://www.martin-brennan.com/es6-basics/ "es6-basics" target="_blank"
+[29]: https://github.com/DrkSephy/es6-cheatsheet "es6-cheatsheet" target="_blank"
+[30]: https://github.com/addyosmani/es6-tools "es6-tools" target="_blank"
 
