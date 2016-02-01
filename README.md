@@ -20,6 +20,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [es6-basics][28]
 * [es6-cheatsheet][29]
 * [es6-tools][30]
+* [compat-table es6][31]
 
 ### **Librerias**
 * [Is.js][5]
@@ -109,4 +110,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [28]: http://www.martin-brennan.com/es6-basics/ "es6-basics" target="_blank"
 [29]: https://github.com/DrkSephy/es6-cheatsheet "es6-cheatsheet" target="_blank"
 [30]: https://github.com/addyosmani/es6-tools "es6-tools" target="_blank"
-
+[31]: https://kangax.github.io/compat-table/es6/ "es6-compat-table" target="_blank"
