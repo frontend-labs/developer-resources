@@ -27,6 +27,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [testing-and-deploying with npm scripts][33]
 * [how-to-use-npm-as-a-build-tool][34]
 * [task-automation-with-npm-run][35]
+* [npm-based-front-end-workflow][36]
 
 ### **Librerias**
 * [Is.js][5]
@@ -121,4 +122,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [33]: http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts "testing-and-deploying with ns" target="_blank"
 [34]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ "how-to-use-npm-as-a-build-tool" target="_blank"
 [35]: http://substack.net/task_automation_with_npm_run "task-automation-with-npm-run" target="_blank"
-[36]: xxx "xxx" target="_blank"
+[36]: https://moroccojs.org/tutorials/npm-based-front-end-workflow/ "npm-based-front-end-workflow" target="_blank"
+[37]: xxx "xxx" target="_blank"
