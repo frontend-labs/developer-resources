@@ -23,6 +23,11 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [compat-table es6][31]
 * [understanding-es6-examples][32]
 
+### **NPM**
+* [testing-and-deploying with npm scripts][33]
+* [how-to-use-npm-as-a-build-tool][34]
+* [task-automation-with-npm-run][35]
+
 ### **Librerias**
 * [Is.js][5]
 * [Aurelia.io][12]
@@ -113,3 +118,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [30]: https://github.com/addyosmani/es6-tools "es6-tools" target="_blank"
 [31]: https://kangax.github.io/compat-table/es6/ "es6-compat-table" target="_blank"
 [32]: https://github.com/sgaurav/understanding-es6 "understanding-es6" target="_blank"
+[33]: http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts "testing-and-deploying with ns" target="_blank"
+[34]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ "how-to-use-npm-as-a-build-tool" target="_blank"
+[35]: http://substack.net/task_automation_with_npm_run "task-automation-with-npm-run" target="_blank"
+[36]: xxx "xxx" target="_blank"
