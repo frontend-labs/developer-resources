@@ -21,6 +21,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [es6-cheatsheet][29]
 * [es6-tools][30]
 * [compat-table es6][31]
+* [Understanding ECMAScript 6][37]
 * [understanding-es6-examples][32]
 
 ### **NPM**
@@ -123,4 +124,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [34]: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ "how-to-use-npm-as-a-build-tool" target="_blank"
 [35]: http://substack.net/task_automation_with_npm_run "task-automation-with-npm-run" target="_blank"
 [36]: https://moroccojs.org/tutorials/npm-based-front-end-workflow/ "npm-based-front-end-workflow" target="_blank"
-[37]: xxx "xxx" target="_blank"
+[37]: https://leanpub.com/understandinges6/read "Understanding ECMAScript 6"
