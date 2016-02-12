@@ -29,6 +29,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 * [how-to-use-npm-as-a-build-tool][34]
 * [task-automation-with-npm-run][35]
 * [npm-based-front-end-workflow][36]
+* [why-npm-scripts][38]
 
 ### **Librerias**
 * [Is.js][5]
@@ -125,3 +126,4 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [35]: http://substack.net/task_automation_with_npm_run "task-automation-with-npm-run" target="_blank"
 [36]: https://moroccojs.org/tutorials/npm-based-front-end-workflow/ "npm-based-front-end-workflow" target="_blank"
 [37]: https://leanpub.com/understandinges6/read "Understanding ECMAScript 6"
+[38]: https://css-tricks.com/why-npm-scripts/ "why-npm-scripts"
