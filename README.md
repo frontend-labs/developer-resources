@@ -78,6 +78,7 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 
 ## **Herramientas**
 * [Flow][2]
+* [agent-qa][39] — Pruebas web y móviles en lenguaje natural, con memoria persistente memidex, mejora continua validada y evidencias revisables de cada ejecución.
 
 ## **Estandares de Git**
 ### **Rebsase**
@@ -127,3 +128,5 @@ Lista de herramientas, utilidades y todo sobre desarrollo Front-End, organizado 
 [36]: https://moroccojs.org/tutorials/npm-based-front-end-workflow/ "npm-based-front-end-workflow" target="_blank"
 [37]: https://leanpub.com/understandinges6/read "Understanding ECMAScript 6"
 [38]: https://css-tricks.com/why-npm-scripts/ "why-npm-scripts"
+
+[39]: https://vostride.com "agent-qa"
